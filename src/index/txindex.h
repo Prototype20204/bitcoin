@@ -2,8 +2,8 @@
 // Distributed under the MIT software license, see the accompanying
 // file COPYING or http://www.opensource.org/licenses/mit-license.php.
 
-#ifndef BITCOIN_INDEX_TXINDEX_H
-#define BITCOIN_INDEX_TXINDEX_H
+#ifndef JUCOIN_INDEX_TXINDEX_H
+#define JUCOIN_INDEX_TXINDEX_H
 
 #include <index/base.h>
 
